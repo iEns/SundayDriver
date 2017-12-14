@@ -1,0 +1,19 @@
+--------------------------------
+--	iEnsomatic Sunday Driver  --
+--------------------------------
+--
+--	Created by Jens Sandalgaard
+--
+--	This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+--
+--	https://github.com/iEns/SundayDriver
+--
+
+
+Version 0.1 beta (2017-12-14):
+
+First Release with of "Sunday Driver" with smooth driving feature:
+* Smooth acceleration and braking.
+* Easy speed control makes it much easier to drive a steady slow speed.
+* Brake holder feature prevents vehicle from switching direction after braking
+* Keeps the brakelight on while holding the brake.
